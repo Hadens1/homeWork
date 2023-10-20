@@ -1,7 +1,0 @@
-D:\source\repos\Lessons\Homework\bin\Debug\Homework.exe.config
-D:\source\repos\Lessons\Homework\bin\Debug\Homework.exe
-D:\source\repos\Lessons\Homework\bin\Debug\Homework.pdb
-D:\source\repos\Lessons\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
-D:\source\repos\Lessons\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
-D:\source\repos\Lessons\Homework\obj\Debug\Homework.exe
-D:\source\repos\Lessons\Homework\obj\Debug\Homework.pdb
